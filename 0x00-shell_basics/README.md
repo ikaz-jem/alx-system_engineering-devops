@@ -1,1 +1,3 @@
-re
+pwd
+ls -a
+
